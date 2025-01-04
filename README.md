@@ -1,4 +1,4 @@
-FT_PRINTF
+FT_PRINTF es un proyecto de 42.
 El objetivo de este proyecto es: replicar la función printf del lenguaje C.
 
 La función printf es un comando para mostrar una cadena formateada en la pantalla.
